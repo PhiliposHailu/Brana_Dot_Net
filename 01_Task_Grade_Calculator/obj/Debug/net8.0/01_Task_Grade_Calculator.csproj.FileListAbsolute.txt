@@ -1,0 +1,15 @@
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/bin/Debug/net8.0/01_Task_Grade_Calculator
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/bin/Debug/net8.0/01_Task_Grade_Calculator.deps.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/bin/Debug/net8.0/01_Task_Grade_Calculator.runtimeconfig.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/bin/Debug/net8.0/01_Task_Grade_Calculator.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/bin/Debug/net8.0/01_Task_Grade_Calculator.pdb
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.AssemblyInfoInputs.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.AssemblyInfo.cs
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.csproj.CoreCompileInputs.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.sourcelink.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/refint/01_Task_Grade_Calculator.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.pdb
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/01_Task_Grade_Calculator.genruntimeconfig.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/01_Task_Grade_Calculator/obj/Debug/net8.0/ref/01_Task_Grade_Calculator.dll
