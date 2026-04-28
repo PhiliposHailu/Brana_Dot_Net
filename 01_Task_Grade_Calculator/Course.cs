@@ -1,13 +1,6 @@
-public class CourseGrade
+public class CourseGrade(string name, double score)
 {
-    public string CourseName {get;}
-    public int Score {get; set;}
-
-    CourseGrade(string name, int value)
-    {
-        CourseName = name;
-        Score = value;
-    }
-
+    public string CourseName { get; } = name;
+    public double Score { get; set; } = score;
 }
 

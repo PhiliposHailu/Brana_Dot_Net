@@ -4,19 +4,26 @@ public class Student
     public string Name {get; set;}
     public List<CourseGrade> Grades {get; set;}
 
+    public Student(int id, string name)
+    {
+        Id = id;
+        Name = name;
+        Grades = [];
+    } 
+
     public void AddGrade(CourseGrade grade)
     {
         Grades.Add(grade);
     }
     public double GetAverageScore()
     {
-        int val = 0;
+        double val = 0;
         for (int i = 0; i < Grades.Count; i++)
         {
             val = val + Grades[i].Score;
         }
 
-        return val / Grades.Count;
+        return val / (double)Grades.Count;
     }
 
     public string GetLetterGrade()
