@@ -15,6 +15,10 @@ void addStudentGrade(List<int> grades, Student s)
         s.AddGrade(curCourse);
     }
 }
+addStudentGrade(s1Grades, student1);
+addStudentGrade(s2Grades, student2);
+addStudentGrade(s3Grades, student3);
+
 
 Console.WriteLine(student1.Grades);
 Console.WriteLine(student2.Grades);
