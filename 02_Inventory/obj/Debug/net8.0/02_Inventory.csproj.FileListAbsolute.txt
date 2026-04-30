@@ -1,0 +1,15 @@
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/bin/Debug/net8.0/02_Inventory
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/bin/Debug/net8.0/02_Inventory.deps.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/bin/Debug/net8.0/02_Inventory.runtimeconfig.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/bin/Debug/net8.0/02_Inventory.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/bin/Debug/net8.0/02_Inventory.pdb
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.AssemblyInfoInputs.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.AssemblyInfo.cs
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.csproj.CoreCompileInputs.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.sourcelink.json
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/refint/02_Inventory.dll
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.pdb
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/02_Inventory.genruntimeconfig.cache
+/home/philipos/Desktop/Dev/brana/Brana_Dot_Net/02_Inventory/obj/Debug/net8.0/ref/02_Inventory.dll
