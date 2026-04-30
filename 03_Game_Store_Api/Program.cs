@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. You MUST add this to tell the DI container about your controllers
+// tells the DI container about our controllers
 builder.Services.AddControllers(); 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -13,7 +13,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// 2. You MUST add this to map your [Route] attributes to the HTTP pipeline
+// this maps our [Route] attributes to the HTTP pipeline
 app.MapControllers(); 
 
 app.Run();
