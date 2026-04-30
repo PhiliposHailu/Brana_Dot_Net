@@ -48,4 +48,10 @@ public class Student
         return "F";
 
     }
+
+
+    public override string ToString()
+    {
+        return ($"Student: {Name} | Average: {GetAverageScore()} | Grade: {GetLetterGrade()}");
+    }  
 }

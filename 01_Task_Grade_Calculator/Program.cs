@@ -7,6 +7,9 @@ List<int> s1Grades = [77, 99, 81, 100, 99];
 List<int> s2Grades = [99, 80, 99, 80, 77];
 List<int> s3Grades = [60, 99, 65, 99, 99];
 
+List<Student> students = [student1, student2, student3];
+List<List<int>> grades = [s1Grades, s2Grades, s3Grades];
+
 void addStudentGrade(List<int> grades, Student s) 
 {
     for (int i = 0; i < grades.Count; i++)
@@ -15,11 +18,14 @@ void addStudentGrade(List<int> grades, Student s)
         s.AddGrade(curCourse);
     }
 }
-addStudentGrade(s1Grades, student1);
-addStudentGrade(s2Grades, student2);
-addStudentGrade(s3Grades, student3);
+
+for (int i = 0; i < grades.Count; i++)
+{
+    addStudentGrade(grades[i], students[i]);
+    Console.WriteLine(students[i]);
+}
 
 
-Console.WriteLine(student1.Grades);
-Console.WriteLine(student2.Grades);
-Console.WriteLine(student3.Grades);
+
+
+
