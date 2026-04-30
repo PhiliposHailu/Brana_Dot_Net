@@ -24,8 +24,3 @@ for (int i = 0; i < grades.Count; i++)
     addStudentGrade(grades[i], students[i]);
     Console.WriteLine(students[i]);
 }
-
-
-
-
-
